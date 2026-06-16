@@ -1,13 +1,4 @@
 {
-  "itemGroup.victoriasbricks": "Example Mod Tab",
-  "block.victoriasbricks.example_block": "Example Block",
-  "item.victoriasbricks.example_item": "Example Item",
-
-  "victoriasbricks.configuration.title": "VictoriasBricks Configs",
-  "victoriasbricks.configuration.section.victoriasbricks.common.toml": "VictoriasBricks Configs",
-  "victoriasbricks.configuration.section.victoriasbricks.common.toml.title": "VictoriasBricks Configs",
-  "victoriasbricks.configuration.items": "Item List",
-  "victoriasbricks.configuration.logDirtBlock": "Log Dirt Block",
-  "victoriasbricks.configuration.magicNumberIntroduction": "Magic Number Text",
-  "victoriasbricks.configuration.magicNumber": "Magic Number"
+	"block.victoriasbricks.test_block": "Test Block",
+	"item.victoriasbricks.test_block": "Test Block"
 }

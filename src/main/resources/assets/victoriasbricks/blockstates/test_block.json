@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "victoriasbricks:block/test_block"
+		}
+	}
+}

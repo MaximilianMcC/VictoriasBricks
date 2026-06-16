@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "victoriasbricks:item/test_block"
+	}
+}
