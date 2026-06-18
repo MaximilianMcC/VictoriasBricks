@@ -19,10 +19,13 @@ public class VictoriasBricks {
 
 	public VictoriasBricks(IEventBus eventBus, ModContainer modContainer) {
 
+		// Make everything
+		CustomBlocks.createblock("test_block", BlockType.BLOCK);
+		// CustomBlocks.createblock("test_block_stairs", BlockType.STAIR);
+		CustomBlocks.createblock("test_glass", BlockType.GLASS);
+
+		// Add everything to the game
 		BLOCKS.register(eventBus);
 		ITEMS.register(eventBus);
-
-		// CustomBlocks.registerBlock("test_block", BlockType.BLOCK);
-		CustomBlocks.registerBlockSet("test");
 	}
 }

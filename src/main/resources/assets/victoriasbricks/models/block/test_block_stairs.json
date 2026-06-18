@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/stairs",
+	"textures": {
+		"bottom": "victoriasbricks:block/test_block",
+		"side": "victoriasbricks:block/test_block",
+		"top": "victoriasbricks:block/test_block"
+	}
+}
