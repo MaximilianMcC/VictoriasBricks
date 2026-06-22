@@ -1,5 +1,5 @@
 
-<img src="./promo/logo.png" alt="Victoria's Bricks" width="100%" style="image-rendering: pixelated;"/>
+<img src="./promo/logo_placard.png" alt="Victoria's Bricks" width="100%" style="image-rendering: pixelated;"/>
 
 <p style="text-align: center">
     A Minecraft mod which adds various different bricks inspired by Victorian architecture. I am not Victoria.
